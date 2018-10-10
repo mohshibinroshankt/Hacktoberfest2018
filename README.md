@@ -29,7 +29,7 @@ You can use ANY html, ANY js, and ANY css you want, as long as you don't create 
 I know some of you may want to use external resources such as images, json files, anything like that...
 Images (gifs,jpg,png) can go on IMGUR with no issues
 Files (json,txt,csv) should go on either PASTEBIN or somewhere similar
-Embedables (svg, base64 images) can simply be embedded in your file somewhere
+Embedables (svg, base64 images) can simply be embedded in your file somewhere://comment 
 
 # Final Note
 Make your games fun, unique, and intuitive. There should not be some 50 page manual on how to play your game, and if there is, it should be embedded into the game.
