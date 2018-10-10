@@ -17,7 +17,7 @@ You can use ANY html, ANY js, and ANY css you want, as long as you don't create 
 
 # What are the rules?
 1. Your submission must be in `/Games/YOURUSERNAME/`
-2. You must submit ONLY THREE files, `index.html`, `main.css`, and `main.js`. Even if they are empty!
+2. You must submit ONLY FOUR files//comment , `index.html`, `main.css`, and `main.js`. Even if they are empty!
 3. You must keep JS in `main.js`, CSS in `main.css` and HTML in `index.html`. Try to separate these aspects properly.
 4. No Malicious Code (cookie sniffing, iframe hacking, css local file stealing, ios rootkits, while loops that never end, CPU Monero Miners)
 5. No NSFW (porn, nudes, pictures of your cat's testicles, severed heads)
